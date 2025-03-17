@@ -71,7 +71,7 @@ This project is open-source and available under the **MIT License**.
 
 ## ✨ Author
 👤 Modassir Ali
-💼 Your LinkedIn - https://www.linkedin.com/in/codehub01/
+💼 My LinkedIn - https://www.linkedin.com/in/codehub01/
 
 Enjoy building with AI! 🚀🤖
 
