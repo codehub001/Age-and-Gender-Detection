@@ -22,7 +22,7 @@ node {
       f: 1.00099996416e-05
     }
   }
-}.    
+}.       
 node {
   name: "data_scale/Mul"
   op: "Mul"
