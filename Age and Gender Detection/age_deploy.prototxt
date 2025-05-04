@@ -14,7 +14,7 @@ layers {
     kernel_size: 7
     stride: 4
   }
-}
+}    
 layers {
   name: "relu1"
   type: RELU
