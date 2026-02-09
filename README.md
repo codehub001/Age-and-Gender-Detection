@@ -26,7 +26,7 @@ pip install opencv-python numpy argparse
 
 ---
 
-## 📥 Pre-trained Models Used
+## 📥 Pre-trained Models Used 
 This project leverages state-of-the-art **deep learning models** for accurate predictions:
 
 📌 **Face Detection:** `opencv_face_detector.pbtxt` & `opencv_face_detector_uint8.pb`
@@ -65,7 +65,7 @@ python age_gender_detection.py
 ---
 
 ## 📜 License
-This project is open-source and available under the **MIT License**.
+This project is open-source and available under the **MIT License**ok
 
 ---
 
